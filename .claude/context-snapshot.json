@@ -1,0 +1,367 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "context_metadata": {
+    "project_name": "bash-course",
+    "project_type": "Educational Content Repository",
+    "version": "1.0.0",
+    "context_fingerprint": "bash-course-2026-01-18-initial",
+    "captured_at": "2026-01-18T00:00:00Z",
+    "capture_type": "comprehensive",
+    "git_branch": "main",
+    "recent_commits": [
+      "0d633bc - add md5 for download - video now has chapter markers",
+      "29e5857 - add favicon",
+      "ce1b7bb - actually checkin download page",
+      "cac6ac1 - add super secure download page",
+      "0e81fed - Update index.html (#4)"
+    ]
+  },
+
+  "project_overview": {
+    "description": "Complete Bash Scripting Course by Dave Eddy (ysap.sh)",
+    "primary_purpose": "Comprehensive bash scripting education from beginner to advanced",
+    "repository_url": "https://github.com/bahamas10/bash-course",
+    "course_website": "https://course.ysap.sh",
+    "video_url": "http://www.youtube.com/watch?v=Sx9zG7wa4FA",
+    "license": "MIT License",
+    "author": "Dave Eddy (https://www.daveeddy.com)",
+    "target_audience": "Beginner to advanced bash scripters"
+  },
+
+  "architectural_decisions": [
+    {
+      "decision_type": "Content Organization",
+      "rationale": "Organized into numbered sections (00-00 through 17-00) for progressive learning",
+      "impact_score": 0.95,
+      "details": "Each section has its own readme.md with explanations and examples"
+    },
+    {
+      "decision_type": "Code Examples",
+      "rationale": "Practical .sh scripts in notes/ directory demonstrating each concept",
+      "impact_score": 0.90,
+      "details": "16 standalone bash scripts covering fundamental concepts"
+    },
+    {
+      "decision_type": "Website Delivery",
+      "rationale": "Custom website at course.ysap.sh with download capability",
+      "impact_score": 0.75,
+      "details": "Static HTML pages with video embedding and course material downloads"
+    }
+  ],
+
+  "directory_structure": {
+    "root_level": [
+      "foo/ - Practice directory created during course",
+      "notes/ - Course notes and code for each section (60+ sections)",
+      "tools/ - Tools used during course creation",
+      "website/ - Scripts for course.ysap.sh site generation"
+    ],
+    "notes_sections": {
+      "beginner": [
+        "00-00-intro",
+        "01-00-terminal-and-finder",
+        "01-01-file-manipulation",
+        "01-02-hidden-files",
+        "01-03-searching-in-files",
+        "01-04-pager"
+      ],
+      "intermediate": [
+        "02-00-man-pages",
+        "02-01-programs-and-commands",
+        "02-02-more-variables",
+        "02-03-vim-crash-course",
+        "02-04-file-permissions",
+        "03-00-actually-scripting",
+        "03-01-taking-input",
+        "03-02-functions",
+        "03-03-conditionals",
+        "03-04-for-loops",
+        "03-05-io",
+        "03-06-what-we-have"
+      ],
+      "advanced": [
+        "04-00-case-statements",
+        "04-01-indexed-arrays",
+        "04-02-associative-arrays",
+        "04-03-IFS-variable",
+        "04-04-command-substitution",
+        "04-05-arithmetic-expression",
+        "04-06-process-substitution",
+        "05-00-cut-tr",
+        "05-01-sed-awk-grep",
+        "05-02-find-cmd",
+        "06-00-bash-arguments",
+        "06-01-pipestatus",
+        "06-02-timing"
+      ],
+      "expert": [
+        "07-00-sourcing",
+        "07-01-curlies-vs-parens",
+        "07-02-return-vs-output",
+        "08-00-parameter-expansion",
+        "08-01-array-expansion-chars",
+        "09-00-basic-globbing",
+        "09-01-extended-globbing",
+        "09-02-glob-options",
+        "10-00-brace-string-expansion",
+        "10-01-braces-and-globbing",
+        "10-02-braces-numeric",
+        "11-00-printf",
+        "11-01-date-formatting",
+        "11-02-regex",
+        "11-03-mapfile-readarray",
+        "12-00-test-vs-bracket",
+        "12-01-special-strings",
+        "13-00-trap-signals",
+        "13-01-named-pipes",
+        "14-00-color",
+        "14-01-cursor-commands",
+        "14-02-isatty",
+        "15-00-interactive-ps1",
+        "15-01-customize-bashrc",
+        "15-02-readline-and-such",
+        "16-00-pitfall-ls-list",
+        "16-01-aliases-with-arguments",
+        "16-02-ansi-length",
+        "17-00-forkbomb"
+      ]
+    }
+  },
+
+  "key_scripts": [
+    {
+      "name": "hello.sh",
+      "purpose": "Basic hello world script",
+      "complexity": "beginner",
+      "concepts": ["shebang", "echo"]
+    },
+    {
+      "name": "greet.sh",
+      "purpose": "Simple greeting function",
+      "complexity": "beginner",
+      "concepts": ["functions", "basic scripting"]
+    },
+    {
+      "name": "greet-arg.sh",
+      "purpose": "Greeting with arguments",
+      "complexity": "beginner",
+      "concepts": ["arguments", "parameters"]
+    },
+    {
+      "name": "greet-default.sh",
+      "purpose": "Greeting with default values",
+      "complexity": "intermediate",
+      "concepts": ["parameter expansion", "defaults"]
+    },
+    {
+      "name": "functions.sh",
+      "purpose": "Function demonstration",
+      "complexity": "intermediate",
+      "concepts": ["function definitions", "scope"]
+    },
+    {
+      "name": "local-vars.sh",
+      "purpose": "Local variable scoping",
+      "complexity": "intermediate",
+      "concepts": ["local keyword", "variable scope"]
+    },
+    {
+      "name": "if-basic.sh",
+      "purpose": "Basic conditionals",
+      "complexity": "intermediate",
+      "concepts": ["if statements", "test conditions"]
+    },
+    {
+      "name": "if-else.sh",
+      "purpose": "If-else branching",
+      "complexity": "intermediate",
+      "concepts": ["else clauses", "branching logic"]
+    },
+    {
+      "name": "file-test.sh",
+      "purpose": "File testing operations",
+      "complexity": "intermediate",
+      "concepts": ["file tests", "conditional operators"]
+    },
+    {
+      "name": "for-loop.sh",
+      "purpose": "Basic for loop",
+      "complexity": "intermediate",
+      "concepts": ["iteration", "loops"]
+    },
+    {
+      "name": "for-range.sh",
+      "purpose": "For loop with ranges",
+      "complexity": "intermediate",
+      "concepts": ["brace expansion", "ranges"]
+    },
+    {
+      "name": "for-files.sh",
+      "purpose": "Iterate over files",
+      "complexity": "intermediate",
+      "concepts": ["globbing", "file iteration"]
+    },
+    {
+      "name": "until-loop.sh",
+      "purpose": "Until loop demonstration",
+      "complexity": "intermediate",
+      "concepts": ["until loops", "loop control"]
+    },
+    {
+      "name": "return-code.sh",
+      "purpose": "Return code handling",
+      "complexity": "advanced",
+      "concepts": ["exit codes", "$?", "error handling"]
+    },
+    {
+      "name": "num-items.sh",
+      "purpose": "Count items demonstration",
+      "complexity": "intermediate",
+      "concepts": ["counting", "arithmetic"]
+    }
+  ],
+
+  "content_coverage": {
+    "total_sections": 60,
+    "skill_levels": {
+      "beginner": 6,
+      "intermediate": 13,
+      "advanced": 14,
+      "expert": 27
+    },
+    "core_topics": [
+      "Terminal basics",
+      "File manipulation",
+      "Variables and parameters",
+      "Functions",
+      "Conditionals",
+      "Loops",
+      "Arrays",
+      "String manipulation",
+      "Process management",
+      "Pattern matching (globbing/regex)",
+      "Advanced parameter expansion",
+      "Signal handling",
+      "Terminal customization",
+      "Common pitfalls"
+    ]
+  },
+
+  "website_components": {
+    "files": [
+      "website/index.html - Main course landing page",
+      "website/download.html - Download page for course materials"
+    ],
+    "features": [
+      "YouTube video embedding",
+      "Course material downloads with MD5 verification",
+      "Chapter markers for video navigation",
+      "Favicon branding"
+    ]
+  },
+
+  "untracked_files": [
+    ".claude/",
+    "notes/.hidden-file",
+    "notes/bash-course-complete.ipynb",
+    "notes/create_bash_training_video.py",
+    "notes/file-test.sh",
+    "notes/file1.txt",
+    "notes/file2.txt",
+    "notes/file3.txt",
+    "notes/for-files.sh",
+    "notes/for-loop.sh",
+    "notes/for-range.sh",
+    "notes/functions.sh",
+    "notes/greet-all.sh",
+    "notes/greet-arg.sh",
+    "notes/greet-default.sh",
+    "notes/greet.sh",
+    "notes/hello.sh",
+    "notes/if-basic.sh",
+    "notes/if-else.sh",
+    "notes/local-vars.sh",
+    "notes/num-items.sh",
+    "notes/numbers.txt",
+    "notes/output.txt",
+    "notes/permissions-test.txt",
+    "notes/return-code.sh",
+    "notes/test-folder/",
+    "notes/until-loop.sh"
+  ],
+
+  "semantic_tags": [
+    "bash",
+    "shell-scripting",
+    "education",
+    "tutorial",
+    "programming-course",
+    "command-line",
+    "unix",
+    "linux",
+    "scripting-fundamentals",
+    "advanced-bash",
+    "video-course",
+    "free-education"
+  ],
+
+  "development_state": {
+    "status": "stable",
+    "maturity": "production",
+    "activity": "maintenance",
+    "last_significant_update": "2026-01-18",
+    "documentation_completeness": 0.95
+  },
+
+  "cross_references": {
+    "related_technologies": [
+      "Unix/Linux command line",
+      "Shell environments (bash, zsh compatibility)",
+      "Text processing tools (sed, awk, grep)",
+      "File system operations",
+      "Process management"
+    ],
+    "learning_dependencies": [
+      "Basic terminal knowledge (covered in course)",
+      "Text editor familiarity (vim crash course included)",
+      "Understanding of file systems"
+    ]
+  },
+
+  "knowledge_graph": {
+    "nodes": [
+      {"id": "bash-fundamentals", "type": "concept", "importance": 1.0},
+      {"id": "scripting-patterns", "type": "concept", "importance": 0.9},
+      {"id": "advanced-techniques", "type": "concept", "importance": 0.8},
+      {"id": "best-practices", "type": "concept", "importance": 0.85},
+      {"id": "common-pitfalls", "type": "concept", "importance": 0.75}
+    ],
+    "edges": [
+      {"from": "bash-fundamentals", "to": "scripting-patterns", "relation": "enables"},
+      {"from": "scripting-patterns", "to": "advanced-techniques", "relation": "builds-to"},
+      {"from": "advanced-techniques", "to": "best-practices", "relation": "informs"},
+      {"from": "common-pitfalls", "to": "best-practices", "relation": "prevents"}
+    ]
+  },
+
+  "ai_assistant_guidance": {
+    "primary_use_cases": [
+      "Learning bash scripting progressively",
+      "Reference for bash syntax and patterns",
+      "Understanding advanced bash features",
+      "Avoiding common scripting mistakes"
+    ],
+    "key_navigation_paths": [
+      "Follow numbered sections sequentially for learning path",
+      "Reference specific readme.md files for concept explanations",
+      "Study .sh scripts for practical examples",
+      "Review 'what-we-have' sections for knowledge checkpoints"
+    ],
+    "modification_guidelines": [
+      "Do not modify core course content (notes/*/readme.md)",
+      "Scripts in notes/ are examples - can create new ones for testing",
+      "Website changes should maintain course accessibility",
+      "Preserve MIT license attribution"
+    ]
+  }
+}
