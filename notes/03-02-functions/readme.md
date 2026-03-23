@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_14_03-02 Functions/03-02 Functions.mp4)
+
+---
+
 # Functions
 
 ## simple

@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_03_01-01 Basic File Manipulation/01-01 Basic File Manipulation.mp4)
+
+---
+
 # Basic File Manipulation
 
 - also, it can be easy to get lost, here's `pwd`

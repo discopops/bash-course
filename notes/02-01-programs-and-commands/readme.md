@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_08_02-01 Programs and Commands/02-01 Programs and Commands.mp4)
+
+---
+
 # Programs and Commands
 
 - `which ls`, `which chmod`

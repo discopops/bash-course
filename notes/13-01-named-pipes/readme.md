@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_52_13-01 Named Pipes/13-01 Named Pipes.mp4)
+
+---
+
 # Named Pipes
 
 mkfifo pipe

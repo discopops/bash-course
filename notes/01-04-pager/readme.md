@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_06_01-04 Paging Files/01-04 Paging Files.mp4)
+
+---
+
 # Paging Files
 
 - `cat /usr/share/dict/words`

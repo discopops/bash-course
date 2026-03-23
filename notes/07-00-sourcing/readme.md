@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_33_07-00 Sourcing Code/07-00 Sourcing Code.mp4)
+
+---
+
 # Sourcing Code
 
 greet() {

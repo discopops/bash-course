@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_17_03-05 Input - Output/03-05 Input - Output.mp4)
+
+---
+
 # Input / Output
 
 Bash can take input from the user

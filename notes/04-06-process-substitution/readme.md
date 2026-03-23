@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_25_04-06 Process Substitution/04-06 Process Substitution.mp4)
+
+---
+
 # Process Substitution
 
 ```

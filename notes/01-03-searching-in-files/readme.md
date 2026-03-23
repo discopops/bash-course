@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_05_01-03 Searching in Files/01-03 Searching in Files.mp4)
+
+---
+
 # Searching in Files
 
 - show `/usr/share/dict/words`

@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_45_11-00 Understanding printf/11-00 Understanding printf.mp4)
+
+---
+
 # Understanding printf
 ```
 s='hello world'

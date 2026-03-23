@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_39_09-00 Basic Globbing/09-00 Basic Globbing.mp4)
+
+---
+
 # Basic Globbing
 
 ```

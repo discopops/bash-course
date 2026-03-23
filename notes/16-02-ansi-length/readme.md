@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_61_16-02 Pitfall- String Length/16-02 Pitfall- String Length.mp4)
+
+---
+
 # Pitfall: String Length
 
 ```

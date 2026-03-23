@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_11_02-04 File Permissions/02-04 File Permissions.mp4)
+
+---
+
 # File Permissions
 
 - do we need to run `bash`?

@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_42_10-00 Brace Expansion/10-00 Brace Expansion.mp4)
+
+---
+
 # Brace Expansion
 
 ```

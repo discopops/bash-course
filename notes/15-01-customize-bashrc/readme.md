@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_57_15-01 Customizing Bash/15-01 Customizing Bash.mp4)
+
+---
+
 # Customizing Bash
 
 ```

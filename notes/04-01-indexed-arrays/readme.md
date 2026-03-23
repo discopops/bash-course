@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_20_04-01 Indexed Arrays/04-01 Indexed Arrays.mp4)
+
+---
+
 # Indexed Arrays
 
 ``` bash

@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_37_08-00 Parameter Expansion/08-00 Parameter Expansion.mp4)
+
+---
+
 # Parameter Expansion
 
 == casing ==

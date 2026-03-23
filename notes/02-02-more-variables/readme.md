@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_09_02-02 Basic Variables/02-02 Basic Variables.mp4)
+
+---
+
 # Basic Variables
 
 - `echo $PATH`

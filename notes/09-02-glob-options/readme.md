@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_41_09-02 Glob Shell Options/09-02 Glob Shell Options.mp4)
+
+---
+
 # Glob Shell Options
 
 ```

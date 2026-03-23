@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_32_06-02 Timing Commands/06-02 Timing Commands.mp4)
+
+---
+
 # Timing Commands
 
 time ls

@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_51_13-00 Trap Signals/13-00 Trap Signals.mp4)
+
+---
+
 # Trap Signals
 
 ```

@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_50_12-01 Special Strings/12-01 Special Strings.mp4)
+
+---
+
 # Special Strings
 
 ```

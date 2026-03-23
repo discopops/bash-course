@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_62_17-00 Forkbomb/17-00 Forkbomb.mp4)
+
+---
+
 # Forkbomb
 
 show bomb.txt

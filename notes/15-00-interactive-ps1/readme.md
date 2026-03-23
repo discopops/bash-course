@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_56_15-00 PS1 Variable/15-00 PS1 Variable.mp4)
+
+---
+
 # PS1 Variable
 
 show bashrc i've been using this whole time

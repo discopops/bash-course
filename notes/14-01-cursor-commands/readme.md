@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_54_14-01 Cursor Commands/14-01 Cursor Commands.mp4)
+
+---
+
 # Cursor Commands
 
 ```

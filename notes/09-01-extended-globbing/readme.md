@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_40_09-01 Extended Globbing/09-01 Extended Globbing.mp4)
+
+---
+
 # Extended Globbing
 
 ```

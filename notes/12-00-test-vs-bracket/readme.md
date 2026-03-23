@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_49_12-00 Brackets vs. Test/12-00 Brackets vs. Test.mp4)
+
+---
+
 # Brackets vs. Test
 help '[['
 help '['

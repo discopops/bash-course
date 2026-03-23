@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_12_03-00 Finally Scripting/03-00 Finally Scripting.mp4)
+
+---
+
 # Finally Scripting
 
 - Basic scripts

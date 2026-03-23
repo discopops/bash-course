@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_35_07-02 Return vs. Output/07-02 Return vs. Output.mp4)
+
+---
+
 # Return vs. Output
 
 ```

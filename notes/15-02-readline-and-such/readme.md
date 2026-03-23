@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_58_15-02 Readline Shortcuts/15-02 Readline Shortcuts.mp4)
+
+---
+
 # Readline Shortcuts
 
 alt-f - forward word

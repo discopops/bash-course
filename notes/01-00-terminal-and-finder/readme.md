@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_02_01-00 Terminal and Finder/01-00 Terminal and Finder.mp4)
+
+---
+
 # Terminal and Finder
 
 - Before we can talk about scripts we have to talk about the shell in general

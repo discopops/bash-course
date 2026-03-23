@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_23_04-04 Command Substitution/04-04 Command Substitution.mp4)
+
+---
+
 # Command Substitution
 
 ``` bash

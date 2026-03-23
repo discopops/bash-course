@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_13_03-01 User Input/03-01 User Input.mp4)
+
+---
+
 # User Input
 
 Modify the above 2 scripts to take from stdin

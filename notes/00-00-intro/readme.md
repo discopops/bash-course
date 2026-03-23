@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_01_00-00 Introduction/00-00 Introduction.mp4)
+
+---
+
 # Introduction
 
 - This course will teach you how to be comfortable on the shell writing

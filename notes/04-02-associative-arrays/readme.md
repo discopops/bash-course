@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_21_04-02 Associative Arrays/04-02 Associative Arrays.mp4)
+
+---
+
 # Associative Arrays
 
 ``` bash

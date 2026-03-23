@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_28_05-01 sed, awk, and grep/05-01 sed, awk, and grep.mp4)
+
+---
+
 # sed, awk, and grep
 
 cat /etc/passwd

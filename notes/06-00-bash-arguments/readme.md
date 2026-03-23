@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_30_06-00 Bash Arguments/06-00 Bash Arguments.mp4)
+
+---
+
 # Bash Arguments
 
 ./00-simple-script

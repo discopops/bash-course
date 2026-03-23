@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_16_03-04 For Loops/03-04 For Loops.mp4)
+
+---
+
 # For Loops
 
 ``` bash

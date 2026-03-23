@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_10_02-03 vim Crash Course/02-03 vim Crash Course.mp4)
+
+---
+
 # vim Crash Course
 
 - We're gonna use `vim` - don't be scared!

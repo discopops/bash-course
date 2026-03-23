@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_31_06-01 Pipe Status/06-01 Pipe Status.mp4)
+
+---
+
 # Pipe Status
 echo hi
 echo $?

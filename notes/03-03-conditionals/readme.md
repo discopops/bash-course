@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_15_03-03 Conditionals/03-03 Conditionals.mp4)
+
+---
+
 # Conditionals
 
 we can check things internal to bash

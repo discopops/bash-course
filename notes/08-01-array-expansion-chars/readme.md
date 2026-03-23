@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_38_08-01 Array Expansion/08-01 Array Expansion.mp4)
+
+---
+
 # Array Expansion
 
 ```

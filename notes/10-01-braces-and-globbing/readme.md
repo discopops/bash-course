@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_43_10-01 Braces and Globbing/10-01 Braces and Globbing.mp4)
+
+---
+
 # Braces and Globbing
 
 ```

@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_55_14-02 Is a TTY/14-02 Is a TTY.mp4)
+
+---
+
 # Is a TTY
 
 ```

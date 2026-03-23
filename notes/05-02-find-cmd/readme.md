@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_29_05-02 Find Command/05-02 Find Command.mp4)
+
+---
+
 # Find Command
 
 ``` bash

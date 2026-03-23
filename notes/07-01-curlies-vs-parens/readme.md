@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_34_07-01 Curlies vs. Parens/07-01 Curlies vs. Parens.mp4)
+
+---
+
 # Curlies vs. Parens
 
 ``` bash

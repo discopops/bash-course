@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_24_04-05 Arithmetic Expression/04-05 Arithmetic Expression.mp4)
+
+---
+
 # Arithmetic Expression
 
 ``` bash

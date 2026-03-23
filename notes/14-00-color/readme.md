@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_53_14-00 Color Output/14-00 Color Output.mp4)
+
+---
+
 # Color Output
 
 ```

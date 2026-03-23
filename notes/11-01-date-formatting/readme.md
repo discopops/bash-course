@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_46_11-01 Date Formatting/11-01 Date Formatting.mp4)
+
+---
+
 # Date Formatting
 
 ```

@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_07_02-00 Man Pages/02-00 Man Pages.mp4)
+
+---
+
 # Man Pages
 
 - show basic examples

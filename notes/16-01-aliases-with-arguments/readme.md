@@ -1,3 +1,9 @@
+## 📹 Video
+
+[Watch this chapter](../../videos/Chapter_60_16-01 Aliases with Arguments/16-01 Aliases with Arguments.mp4)
+
+---
+
 # Aliases with Arguments
 
 ```
